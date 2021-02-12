@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "EuvcDxcwCT3Z9Gpz/6XHX+FTVRRsb22jy5lb9LJ+l/XwfgBYLRAuockjwoFCQwjIaGpZSky/LbT5iAhuVTdStQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alberto jose lopez\\Desktop\\uni\\tri 13\\concurrencia y sistemas distribuidos\\prueba\\Prueba\\Prueba\\Prueba.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alberto jose lopez\\.nuget\\packages\\csvhelper\\22.1.2\\csvhelper.22.1.2.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\alberto jose lopez\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\alberto jose lopez\Desktop\uni\tri 13\concurrencia y sistemas distribuidos\prueba\Prueba\Prueba\bin\Debug\netcoreapp3.1\Prueba.exe
+C:\Users\alberto jose lopez\Desktop\uni\tri 13\concurrencia y sistemas distribuidos\prueba\Prueba\Prueba\bin\Debug\netcoreapp3.1\Prueba.deps.json
+C:\Users\alberto jose lopez\Desktop\uni\tri 13\concurrencia y sistemas distribuidos\prueba\Prueba\Prueba\bin\Debug\netcoreapp3.1\Prueba.runtimeconfig.json
+C:\Users\alberto jose lopez\Desktop\uni\tri 13\concurrencia y sistemas distribuidos\prueba\Prueba\Prueba\bin\Debug\netcoreapp3.1\Prueba.runtimeconfig.dev.json
+C:\Users\alberto jose lopez\Desktop\uni\tri 13\concurrencia y sistemas distribuidos\prueba\Prueba\Prueba\bin\Debug\netcoreapp3.1\Prueba.dll
+C:\Users\alberto jose lopez\Desktop\uni\tri 13\concurrencia y sistemas distribuidos\prueba\Prueba\Prueba\bin\Debug\netcoreapp3.1\Prueba.pdb
+C:\Users\alberto jose lopez\Desktop\uni\tri 13\concurrencia y sistemas distribuidos\prueba\Prueba\Prueba\obj\Debug\netcoreapp3.1\Prueba.csprojAssemblyReference.cache
+C:\Users\alberto jose lopez\Desktop\uni\tri 13\concurrencia y sistemas distribuidos\prueba\Prueba\Prueba\obj\Debug\netcoreapp3.1\Prueba.AssemblyInfoInputs.cache
+C:\Users\alberto jose lopez\Desktop\uni\tri 13\concurrencia y sistemas distribuidos\prueba\Prueba\Prueba\obj\Debug\netcoreapp3.1\Prueba.AssemblyInfo.cs
+C:\Users\alberto jose lopez\Desktop\uni\tri 13\concurrencia y sistemas distribuidos\prueba\Prueba\Prueba\obj\Debug\netcoreapp3.1\Prueba.dll
+C:\Users\alberto jose lopez\Desktop\uni\tri 13\concurrencia y sistemas distribuidos\prueba\Prueba\Prueba\obj\Debug\netcoreapp3.1\Prueba.pdb
+C:\Users\alberto jose lopez\Desktop\uni\tri 13\concurrencia y sistemas distribuidos\prueba\Prueba\Prueba\obj\Debug\netcoreapp3.1\Prueba.genruntimeconfig.cache
+C:\Users\alberto jose lopez\Desktop\uni\tri 13\concurrencia y sistemas distribuidos\prueba\Prueba\Prueba\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\alberto jose lopez\Desktop\uni\tri 13\concurrencia y sistemas distribuidos\prueba\Prueba\Prueba\obj\Debug\netcoreapp3.1\Prueba.csproj.CopyComplete
+C:\Users\alberto jose lopez\Desktop\uni\tri 13\concurrencia y sistemas distribuidos\prueba\Prueba\Prueba\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\alberto jose lopez\Desktop\uni\tri 13\concurrencia y sistemas distribuidos\prueba\Prueba\Prueba\obj\Debug\netcoreapp3.1\Prueba.csproj.CoreCompileInputs.cache
