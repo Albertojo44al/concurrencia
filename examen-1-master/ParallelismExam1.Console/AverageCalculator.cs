@@ -18,17 +18,18 @@ namespace ParallelismExam1.Console
 
         public  double Execute()
         {
- 
-            Task.Run(() => { 
-                for(int i =0; i < 5; i++)
-                {
+            for (int i = 0; i < 5; i++)
+            {
+                Task.Run(() => { 
+               
                      var tupla = (Load_balance(5, this.values.Count(), i));
                     lock (objeto)
                     {
                         this.average += CalculateAverage(this.values.ToArray(), tupla.Item1, tupla.Item2);
                     }
-                }
-            });
+              
+                });
+            }
             return this.average / 5;
         }
 
