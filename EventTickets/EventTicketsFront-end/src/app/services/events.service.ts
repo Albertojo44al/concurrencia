@@ -5,14 +5,19 @@ import { HttpClient } from '@angular/common/http';
 })
 export class EventsService {
 
-  private url = "https://localhost:44364/api/EventTickets/categories";
+  private url = "https://localhost:44364/api/EventTickets";
   constructor(
     private http: HttpClient        
   ) { }
 
   getCategories() {
-    return this.http.get<any[]>(this.url);
+    return this.http.get<any[]>(`${this.url}/categories`);
   } 
+
+  getEvento(id){
+   
+    return this.http.get<any[]>(`${this.url}/events?categoryid=${id}`);
+  }
 
 
 

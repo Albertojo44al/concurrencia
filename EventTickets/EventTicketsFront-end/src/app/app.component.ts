@@ -9,17 +9,15 @@ import { EventsService } from './services/events.service';
 export class AppComponent implements OnInit {
   title = 'EventTicketsFront-end';
 
-Events:any = [];
 
 constructor(
   private _eventService: EventsService
 ){}
 
-ngOnInit(){
-  this._eventService.getCategories()
-  .subscribe(data => this.Events = data);
-  console.log(this.Events);
-  
+async ngOnInit(){
 }
+
+
+
 
 }

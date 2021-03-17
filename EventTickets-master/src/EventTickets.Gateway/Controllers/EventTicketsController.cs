@@ -24,7 +24,7 @@ namespace EventTickets.Gateway.Controllers
 
         [HttpGet("categories")]
         public async Task<ActionResult<IEnumerable<CategoryDto>>> Get()
-        {
+       {
             var result = await _catalogService.GetCategoriesAsync();
             return Ok(result.Select(x => new CategoryDto
             {

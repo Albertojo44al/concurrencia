@@ -1,0 +1,10 @@
+<div class="cotainer p-5">
+    <div class="row p-2 " *ngFor="let event of Events" (click)="navigateEvent(event.categoryId) ">
+
+        <div class="col-md-5 bg-dark text-white">
+            {{event.categoryId}}
+        </div>
+        <div class="col-md-3 bg-dark text-white">{{event.name}}</div>
+
+    </div>
+</div>
