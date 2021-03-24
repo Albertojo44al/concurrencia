@@ -35,7 +35,7 @@ namespace EventTickets.Gateway.Controllers
 
         [HttpGet("events")]
         public async Task<ActionResult<IEnumerable<EventDto>>> Get([FromQuery] Guid categoryId)
-        {
+            {
             var result = await _catalogService.GetEventByCategoryAsync(categoryId);
             return Ok(result.Select(x => new EventDto
             {
